@@ -35,4 +35,4 @@ Kopyalanıp yapıştırılacak link şu şekilde:
 
 Artık modüller Arduino'da tanımlı fakat bir yazılım daha yüklememiz lazım o da basit olmasına rağmen biraz zaman alabiliyor.Şimdi vakit kaybetmeden devam edelim.
 
-<p align="center"><img src="https://github.com/Tzelal/ESP32-tzelliot/blob/master/ESP32%20Pics/Annotation%202020-01-28%20162244.png" ></p>
+<p align="center"><img src="https://github.com/Tzelal/ESP32-tzelliot/blob/master/ESP32%20Pics/Annotation%202020-01-28%20193918.png" ></p>
