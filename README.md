@@ -42,11 +42,31 @@ Yukardaki resimde olduğu gibi 'Boards Manager' kısmına tıkladığında karş
 
 <p align="center"><img src="https://github.com/Tzelal/ESP32-tzelliot/blob/master/ESP32%20Pics/Annotation%202020-01-28%20195851.png" ></p>
 
-'İnstall' butonuna tıkladıktan sonra biraz süre alıyor fakat Esp32 modülü kullanmaya hazır.
-<br/>
-Evet.Şimdi Esp32 modülünü test etmek amaçlı Arduino IDE'de halihazırda yüklü olan 'wifi' örneğini deneyebiliriz.Fakat bunu için öncelikle 'ESP32 Dev Module' şıkkını seçmemiz lazım ki Arduino IDE'miz hangi modüle kodü atıcağını bilebilsin.
+'İnstall' butonuna tıkladıktan sonra biraz süre alıyor fakat Esp32 modülü kullanmaya hazır.<br/>
+Evet.Şimdi Esp32 modülünü test etmek amaçlı Arduino IDE'de halihazırda yüklü olan 'wifi' örneğini deneyebiliriz.Fakat bunu için öncelikle 'ESP32 Dev Module' şıkkını seçmemiz lazım ki Arduino IDE'miz hangi modüle kodü atıcağını bilebilsin (Bu arada eğer farklı bir modül kullanıyorsan onu da burdaki seçeneklerden bulup seçebilirsin.Türkiye piyasasında bu modülün genelde sadece bir modülü satılıyor o da yukarıda yazdığım model.)
 
 <p align="center"><img src="https://github.com/Tzelal/ESP32-tzelliot/blob/master/ESP32%20Pics/Annotation%202020-01-28%20162946.png" ></p>
+
+Modülü seçtikten sonra olması gereken değerler aşağıdaki gibidir:
+
+<p align="center"><img src="https://github.com/Tzelal/ESP32-tzelliot/blob/master/ESP32%20Pics/Annotation%202020-01-28%20201638.png" ></p>
+
+Herşeyin yolunda gittiğini düşünüyorum.Deniyceğimiz örneğin bulunduğu yer aşağıdaki gibi:
+
+<p align="center"><img src="https://github.com/Tzelal/ESP32-tzelliot/blob/master/ESP32%20Pics/Annotation%202020-01-28%20164013.png" ></p>
+
+Karşımıza yeni bir sayfa çıkıcak.Çıkan sayfada hazır bir kod var ve çalıştırdığımız zaman çevredeki wifi ağlarını çekim güçleriyle birlikte göstericek.
+
+<p align="center"><img src="https://github.com/Tzelal/ESP32-tzelliot/blob/master/ESP32%20Pics/Annotation%202020-01-28%20164152.png" ></p>
+
+### NOT:ESP32 modülüne kod atılacağı zaman Arduino IDE'de çalıştır (Upload) butonuna bastıktan sonra pencerenin alt kısmında 'Connecting..._____.....___' gibi bir bilgi çıkıcak.
+
+<p align="center"><img src="https://github.com/Tzelal/ESP32-tzelliot/blob/master/ESP32%20Pics/Annotation%202020-01-28%20230749.png" ></p>
+
+### O esnada Esp32 modülünün üzerindeki 'Boot' butonunu basılı tutman gerek.Yüzdelik değerler (%4 gibi) çıkmaya başladığında bırakabilirsin.Yazdığım gibi yapmazsan kod modüle yüklenmezo yüzden bu kısma dikkat.
+
+<p align="center"><img src="https://github.com/Tzelal/ESP32-tzelliot/blob/master/ESP32%20Pics/Annotation%202020-01-28%20164013.png" ></p>
+
 
 
 
