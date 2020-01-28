@@ -36,3 +36,18 @@ Kopyalanıp yapıştırılacak link şu şekilde:
 Artık modüller Arduino'da tanımlı fakat bir yazılım daha yüklememiz lazım o da basit olmasına rağmen biraz zaman alabiliyor.Şimdi vakit kaybetmeden devam edelim.
 
 <p align="center"><img src="https://github.com/Tzelal/ESP32-tzelliot/blob/master/ESP32%20Pics/Annotation%202020-01-28%20193918.png" ></p>
+
+
+Yukardaki resimde olduğu gibi 'Boards Manager' kısmına tıkladığında karşına çıkıcak sayfada arama kısmına 'Esp' yazdığında Esp32 modülünü indirebileceğin seçenek direkt karşına çıkıcak.İlk aşamalardan biri olan 'Additional Board Manager URLs' kısmına yazdığın linke göre karşına Esp8266 modülünün indirme seçeneği de çıkabilir.İstersen ikisini de indirebilirsin,ben konu gereği sadece Esp32 modülünü indiricem (İkisini de indirmen ilerleyen aşamalarda sıkıntı yaratmaz).
+
+<p align="center"><img src="https://github.com/Tzelal/ESP32-tzelliot/blob/master/ESP32%20Pics/Annotation%202020-01-28%20195851.png" ></p>
+
+'İnstall' butonuna tıkladıktan sonra biraz süre alıyor fakat Esp32 modülü kullanmaya hazır.
+<br/>
+Evet.Şimdi Esp32 modülünü test etmek amaçlı Arduino IDE'de halihazırda yüklü olan 'wifi' örneğini deneyebiliriz.Fakat bunu için öncelikle 'ESP32 Dev Module' şıkkını seçmemiz lazım ki Arduino IDE'miz hangi modüle kodü atıcağını bilebilsin.
+
+<p align="center"><img src="https://github.com/Tzelal/ESP32-tzelliot/blob/master/ESP32%20Pics/Annotation%202020-01-28%20162946.png" ></p>
+
+
+
+
