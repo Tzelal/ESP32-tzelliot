@@ -63,9 +63,19 @@ Karşımıza yeni bir sayfa çıkıcak.Çıkan sayfada hazır bir kod var ve ça
 
 <p align="center"><img src="https://github.com/Tzelal/ESP32-tzelliot/blob/master/ESP32%20Pics/Annotation%202020-01-28%20230749.png" ></p>
 
-### O esnada Esp32 modülünün üzerindeki 'Boot' butonunu basılı tutman gerek.Yüzdelik değerler (%4 gibi) çıkmaya başladığında bırakabilirsin.Yazdığım gibi yapmazsan kod modüle yüklenmezo yüzden bu kısma dikkat.
+### O esnada Esp32 modülünün üzerindeki 'Boot' butonunu basılı tutman gerek.Yüzdelik değerler (%4 gibi) çıkmaya başladığında bırakabilirsin.Yazdığım gibi yapmazsan kod modüle yüklenmezo yüzden bu kısma dikkat.İlk önce boot butonunun nerede olduğunu paylaşıyorum.
 
-<p align="center"><img src="https://github.com/Tzelal/ESP32-tzelliot/blob/master/ESP32%20Pics/Annotation%202020-01-28%20164013.png" ></p>
+<p align="center"><img src="https://github.com/Tzelal/ESP32-tzelliot/blob/master/ESP32%20Pics/esp32_LI.jpg" ></p>
+
+### Kodun yüklendikten sonraki hali aşağıdaki gibi:
+
+<p align="center"><img src="https://github.com/Tzelal/ESP32-tzelliot/blob/master/ESP32%20Pics/Annotation%202020-01-29%20175155.png" ></p>
+
+Herşey yolunda gitmişse yukarıda paylaştığım görseller gibi bir sonuç alman gerek.Son olarak bu kod için Serial Monitor'ü açıp etraftaki wifi ağlarına bakman gerek (Serial Monitor'dan örnek görüntü aşağıda).
+
+<p align="center"><img src="https://github.com/Tzelal/ESP32-tzelliot/blob/master/ESP32%20Pics/InkedAnnotation%202020-01-28%20164333_LI.jpg" ></p>
+
+
 
 
 
