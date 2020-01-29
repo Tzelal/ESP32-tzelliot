@@ -16,7 +16,8 @@ Arduno'yu (uygulamayı) daha önce hiç yüklemediysen [buraya](https://www.ardu
 
 <p align="center"><img src="https://github.com/Tzelal/ESP32-tzelliot/blob/master/ESP32%20Pics/Annotation%202020-01-28%20162244.png" ></p>
 
-![ESP32 Development Board WiFi+Bluetooth-1000x750](https://github.com/Tzelal/ESP32-tzelliot/blob/master/ESP32%20Pics/Annotation%202020-01-28%20162244.png)
+![ESP32 Development Board WiFi+Bluetooth-1000x750](![Annotation 2020-01-28 162440](https://user-images.githubusercontent.com/36787074/73377360-fe47c000-42cf-11ea-9558-5fc835eddd53.png)
+)
 
 
 Devamında... ( Additional Board Manager URLs ) yazan yere aşağıdaki resimde olduğu gibi vericeğim linki kopyalayıp yapıştır.
