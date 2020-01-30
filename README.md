@@ -27,7 +27,7 @@ Devamında... ( Additional Board Manager URLs ) yazan yere aşağıdaki resimde 
 
 <p align="center"><img src="https://github.com/Tzelal/ESP32-tzelliot/blob/master/ESP32%20Pics/Annotation%202020-01-28%20162440.png" ></p>
 
-### NOT: Yukarıda paylaştığım link sayesinde sadece Esp32 modülü Arduino IDE'ye tanımlanabiliyor.Eğer daha önceden tanımlamış olduğun Esp8266 modülü varsa veya ileride kullanmayı düşünüyorsan yapman gereken Esp32 ile Esp8266 modüllerinin linklerini bir virgül ile ayırıp 'Additional Boards Manager URLs:' kısmında tanımlamak.Uygulanmış bir görseli aşağıda veriyorum.
+ NOT: Yukarıda paylaştığım link sayesinde sadece Esp32 modülü Arduino IDE'ye tanımlanabiliyor.Eğer daha önceden tanımlamış olduğun Esp8266 modülü varsa veya ileride kullanmayı düşünüyorsan yapman gereken Esp32 ile Esp8266 modüllerinin linklerini bir virgül ile ayırıp 'Additional Boards Manager URLs:' kısmında tanımlamak.Uygulanmış bir görseli aşağıda veriyorum.
 
 Kopyalanıp yapıştırılacak link şu şekilde:
 **https://dl.espressif.com/dl/package_esp32_index.json, http://arduino.esp8266.com/stable/package_esp8266com_index.json**
