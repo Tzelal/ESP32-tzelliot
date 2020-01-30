@@ -22,7 +22,7 @@ Arduno'yu (uygulamayı) daha önce hiç yüklemediysen [buraya](https://www.ardu
 
 Devamında... ( Additional Board Manager URLs ) yazan yere aşağıdaki resimde olduğu gibi vericeğim linki kopyalayıp yapıştır.
 
->Eklenicek Kod:**https://dl.espressif.com/dl/package_esp32_index.json**
+>Eklenicek Kod:<br/>**https://dl.espressif.com/dl/package_esp32_index.json**
 
 
 <p align="center"><img src="https://github.com/Tzelal/ESP32-tzelliot/blob/master/ESP32%20Pics/Annotation%202020-01-28%20162440.png" ></p>
