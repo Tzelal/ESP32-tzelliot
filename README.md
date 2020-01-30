@@ -64,7 +64,7 @@ Modülü seçtikten sonra olması gereken değerler aşağıdaki gibidir:
 <p align="center"><img src="ESP32%20Pics/Annotation%202020-01-28%20201638.png" width="550"></p>
 
 
-Herşeyin yolunda gittiğini düşünüyorum.Deniyceğimiz örneğin bulunduğu yer aşağıdaki gibi:
+Herşeyin yolunda gittiğini düşünüyorum.Deneyeceğimiz örneğin bulunduğu yer aşağıdaki gibi:
 
 
 <p align="center"><img src="ESP32%20Pics/Annotation%202020-01-28%20164013.png" width="550"></p>
