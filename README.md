@@ -1,6 +1,8 @@
-# ESP32-tzelliot
+<h1 align="center">ESP32-tzelliot-</h1>
 
-**ESP32 Arduino IDE Kurulum**
+<h2 align="center">ESP32 Arduino IDE kurulum ve ilk kodlar</h2>
+
+
 
 
 Merhabalar burada ingilizce kaynağının bile az olduğu ESP32 modülü hakkında bilgi vermeye çalışıcam.Öncelikle modülü Arduinp IDE'ye nasıl entegre edicez yani kodlarımızı ESP32 modülüne Arduino uygulamasından yükleyebilir vaziyete nasıl getiricez ondan bahsedicem.
@@ -82,6 +84,8 @@ Karşımıza yeni bir sayfa çıkıcak.Çıkan sayfada hazır bir kod var ve ça
 ### Kodun yüklendikten sonraki hali aşağıdaki gibi:
 
 ![Annotation 2020-01-29 175155](https://user-images.githubusercontent.com/36787074/73452837-cc8c3300-437b-11ea-95dd-a9ca0bfbe789.png)
+
+<p align="center"><img src="ESP32%20Pics/Annotation%202020-01-29%20175155.png" width="550"></p>
 
 
 Herşey yolunda gitmişse yukarıda paylaştığım görseller gibi bir sonuç alman gerek.Son olarak bu kod için Serial Monitor'ü açıp etraftaki wifi ağlarına bakman gerek (Serial Monitor'dan örnek görüntü aşağıda).
