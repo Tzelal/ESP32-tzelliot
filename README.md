@@ -30,7 +30,7 @@ Devamında... ( Additional Board Manager URLs ) yazan yere aşağıdaki resimde 
 
  NOT: Yukarıda paylaştığım link sayesinde sadece Esp32 modülü Arduino IDE'ye tanımlanabiliyor.Eğer daha önceden tanımlamış olduğun Esp8266 modülü varsa veya ileride kullanmayı düşünüyorsan yapman gereken Esp32 ile Esp8266 modüllerinin linklerini bir virgül ile ayırıp 'Additional Boards Manager URLs:' kısmında tanımlamak.Uygulanmış bir görseli aşağıda veriyorum.
 
-Kopyalanıp yapıştırılacak link şu şekilde:
+>Kopyalanıp yapıştırılacak link şu şekilde:<br/>
 **https://dl.espressif.com/dl/package_esp32_index.json, http://arduino.esp8266.com/stable/package_esp8266com_index.json**
 
 
@@ -76,19 +76,19 @@ Karşımıza yeni bir sayfa çıkıcak.Çıkan sayfada hazır bir kod var ve ça
 <p align="center"><img src="ESP32%20Pics/Annotation%202020-01-28%20164152.png" width="550"></p>
 
 
-### NOT:ESP32 modülüne kod atılacağı zaman Arduino IDE'de çalıştır (Upload) butonuna bastıktan sonra pencerenin alt kısmında 'Connecting..._____.....___' gibi bir bilgi çıkıcak.
+ NOT:ESP32 modülüne kod atılacağı zaman Arduino IDE'de çalıştır (Upload) butonuna bastıktan sonra pencerenin alt kısmında 'Connecting..._____.....___' gibi bir bilgi çıkıcak.
 
 
 <p align="center"><img src="ESP32%20Pics/Annotation%202020-01-28%20230749.png" width="550"></p>
 
 
-### O esnada Esp32 modülünün üzerindeki 'Boot' butonunu basılı tutman gerek.Yüzdelik değerler (%4 gibi) çıkmaya başladığında bırakabilirsin.Yazdığım gibi yapmazsan kod modüle yüklenmezo yüzden bu kısma dikkat.İlk önce boot butonunun nerede olduğunu paylaşıyorum.
+ O esnada Esp32 modülünün üzerindeki 'Boot' butonunu basılı tutman gerek.Yüzdelik değerler (%4 gibi) çıkmaya başladığında bırakabilirsin.Yazdığım gibi yapmazsan kod modüle yüklenmezo yüzden bu kısma dikkat.İlk önce boot butonunun nerede olduğunu paylaşıyorum.
 
 
 <p align="center"><img src="ESP32%20Pics/esp32_LI.jpg" width="550"></p>
 
 
-### Kodun yüklendikten sonraki hali aşağıdaki gibi:
+ Kodun yüklendikten sonraki hali aşağıdaki gibi:
 
 
 <p align="center"><img src="ESP32%20Pics/Annotation%202020-01-29%20175155.png" width="550"></p>
