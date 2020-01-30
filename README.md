@@ -99,8 +99,42 @@ Herşey yolunda gitmişse yukarıda paylaştığım görseller gibi bir sonuç a
 
 <p align="center"><img src="ESP32%20Pics/InkedAnnotation%202020-01-28%20164333_LI.jpg" width="550"></p>
 
+Son kısımda Esp32 modülünün üzerinde halihazırda mevcut olan led'i yakmayı göstericem.Arduino için de yazılan bu basit kod için ekstra bilmen gereken Esp32 üzerindeki led'i 2. pin'in tetiklediği (#define led 2).<br/>
+Kullandığım Kod:
+<br/>
+```
+ #define led 2
 
+void setup() {
+  // put your setup code here, to run once:
+  pinMode(led, OUTPUT);
+}
 
+void loop() {
+  // put your main code here, to run repeatedly:
+  digitalWrite(led, HIGH);
+  delay(500);
+  digitalWrite(led, LOW);
+  delay(500);
+}
+```
+Kodun Arduino görseli
+<br/>
+
+<p align="center"><img src="ESP32%20Pics/Annotation%202020-01-28%20171534.png" width="550"></p>
+
+<br/>
+Sonuç olarak Esp32 üzerinde mavi bir ledin yanıp sönmesi gerek.Faydalı bulduğum kaynakları aşağıda paylaşıyorum.Projelerinde kolay gelsin :)
+<br/>
+<br/>
+<br/>
+### Kaynaklar:
+<br/>
+1.https://randomnerdtutorials.com/projects/#esp32
+2.http://www.ulisp.com/show?2AJI
+3.https://www.espressif.com/en/products/hardware/esp32-devkitc/resources
+4.https://www.espressif.com/sites/default/files/documentation/esp32_hardware_design_guidelines_en.pdf
+5.https://www.hackster.io/search?i=projects&q=esp32
 
 
 
