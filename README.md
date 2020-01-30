@@ -2,8 +2,9 @@
 
 <h2 align="center">ESP32 Arduino IDE kurulum ve ilk kodlar</h2>
 
-
-
+<br/>
+<br/>
+<br/>
 
 Merhabalar burada ingilizce kaynağının bile az olduğu ESP32 modülü hakkında bilgi vermeye çalışıcam.Öncelikle modülü Arduinp IDE'ye nasıl entegre edicez yani kodlarımızı ESP32 modülüne Arduino uygulamasından yükleyebilir vaziyete nasıl getiricez ondan bahsedicem.
 
