@@ -124,10 +124,11 @@ Kodun Arduino görseli
 <p align="center"><img src="ESP32%20Pics/Annotation%202020-01-28%20171534.png" width="550"></p>
 
 <br/>
-Sonuç olarak Esp32 üzerinde mavi bir ledin yanıp sönmesi gerek.Faydalı bulduğum kaynakları aşağıda paylaşıyorum.Projelerinde kolay gelsin :)
+Sonuç olarak Esp32 üzerinde mavi bir ledin yanıp sönmesi gerek.Faydalı bulduğum kaynakları aşağıda paylaşıyorum.Projelerinde kolay gelsin, takipte kalmaya devam et :)
 <br/>
 <br/>
 <br/>
+
 **Kaynaklar:**
 <br/>
 1.https://randomnerdtutorials.com/projects/#esp32
